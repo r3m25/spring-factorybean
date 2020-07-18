@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+.idea
+target
+factorybean.iml
+
 # Log file
 *.log
 
